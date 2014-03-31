@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	position: relative;
+  font-family:  arial, sans-serif;
+ }
+
+.pic{
+	text-align:center;
+  
+}
+a:link,visited,hover,active {
+	color:#00F;
+	}	
+
+div.title {
+	font-size:90%;
+	word-spacing: 6px;
+	text-align:center;
+}
+.blank{
+	margin-top:10px;
+	margin-left:450px;
+	weight:200px;
+	}
+.search
+{
+	font-size:14px;
+	height:30px;
+	width:auto;
+	padding: 2px 15px 2px 15px;
+	}
+	
+.more{
+	font-size:90%;
+	word-spacing: 5px;
+	text-align:center;
+	margin-top:30px;
+}
+
+.something{
+	font-size:80%;
+	word-spacing: 5px;
+}
+
+.about{
+	font-size:80%;
+	word-spacing: 1px;
+}
+
+.end{
+	font-size:75%;
+	color:#707070;
+	word-spacing: 1px;
+}
+.read:link,visited,hover,active{
+	color:#707070;
+}
+.others{
+	margin-top:300px;
+	text-align:center;
+	}
+input#subject
+{
+	height:25px;
+	}
